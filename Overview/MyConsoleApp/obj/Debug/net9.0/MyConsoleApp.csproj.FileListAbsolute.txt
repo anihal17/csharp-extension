@@ -12,3 +12,4 @@ C:\Users\HOME\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net9.0\refint\MyCons
 C:\Users\HOME\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
 C:\Users\HOME\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\HOME\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
+C:\Users\HOME\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.sourcelink.json
