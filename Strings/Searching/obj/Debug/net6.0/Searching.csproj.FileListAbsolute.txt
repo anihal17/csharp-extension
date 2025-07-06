@@ -3,3 +3,13 @@ C:\Users\HOME\Desktop\Start\Strings\Searching\obj\Debug\net6.0\Searching.Assembl
 C:\Users\HOME\Desktop\Start\Strings\Searching\obj\Debug\net6.0\Searching.AssemblyInfo.cs
 C:\Users\HOME\Desktop\Start\Strings\Searching\obj\Debug\net6.0\Searching.csproj.CoreCompileInputs.cache
 C:\Users\HOME\Desktop\Start\Strings\Searching\obj\Debug\net6.0\Searching.sourcelink.json
+C:\Users\HOME\Desktop\Start\Strings\Searching\bin\Debug\net6.0\Searching.exe
+C:\Users\HOME\Desktop\Start\Strings\Searching\bin\Debug\net6.0\Searching.deps.json
+C:\Users\HOME\Desktop\Start\Strings\Searching\bin\Debug\net6.0\Searching.runtimeconfig.json
+C:\Users\HOME\Desktop\Start\Strings\Searching\bin\Debug\net6.0\Searching.dll
+C:\Users\HOME\Desktop\Start\Strings\Searching\bin\Debug\net6.0\Searching.pdb
+C:\Users\HOME\Desktop\Start\Strings\Searching\obj\Debug\net6.0\Searching.dll
+C:\Users\HOME\Desktop\Start\Strings\Searching\obj\Debug\net6.0\refint\Searching.dll
+C:\Users\HOME\Desktop\Start\Strings\Searching\obj\Debug\net6.0\Searching.pdb
+C:\Users\HOME\Desktop\Start\Strings\Searching\obj\Debug\net6.0\Searching.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Start\Strings\Searching\obj\Debug\net6.0\ref\Searching.dll

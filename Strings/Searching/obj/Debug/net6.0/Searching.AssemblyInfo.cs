@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Searching")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9f59e6daeb96c0b656f4bef5f7f5a9f2fff07e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08d8f5d3f6d1d0f731ce0451c1b5c868b44aa828")]
 [assembly: System.Reflection.AssemblyProductAttribute("Searching")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Searching")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
