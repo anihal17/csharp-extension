@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\Start\Regex\Finding\bin\Debug\net6.0\Finding.exe
+C:\Users\HOME\Desktop\Start\Regex\Finding\bin\Debug\net6.0\Finding.deps.json
+C:\Users\HOME\Desktop\Start\Regex\Finding\bin\Debug\net6.0\Finding.runtimeconfig.json
+C:\Users\HOME\Desktop\Start\Regex\Finding\bin\Debug\net6.0\Finding.dll
+C:\Users\HOME\Desktop\Start\Regex\Finding\bin\Debug\net6.0\Finding.pdb
+C:\Users\HOME\Desktop\Start\Regex\Finding\obj\Debug\net6.0\Finding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Start\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Start\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Start\Regex\Finding\obj\Debug\net6.0\Finding.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Start\Regex\Finding\obj\Debug\net6.0\Finding.sourcelink.json
+C:\Users\HOME\Desktop\Start\Regex\Finding\obj\Debug\net6.0\Finding.dll
+C:\Users\HOME\Desktop\Start\Regex\Finding\obj\Debug\net6.0\refint\Finding.dll
+C:\Users\HOME\Desktop\Start\Regex\Finding\obj\Debug\net6.0\Finding.pdb
+C:\Users\HOME\Desktop\Start\Regex\Finding\obj\Debug\net6.0\Finding.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Start\Regex\Finding\obj\Debug\net6.0\ref\Finding.dll
